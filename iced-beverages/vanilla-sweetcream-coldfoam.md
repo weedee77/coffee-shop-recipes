@@ -4,7 +4,11 @@
 
 ## Ingredients
 
+<<<<<<< HEAD
 - 8 oz Cold Brew
+=======
+- 8 oz Cold Br
+>>>>>>> 5c030c653587da4d7301c4057f6d20cfd1a54f33
 - 1/4 cup of 2% milk
 - 1 Tbsp powdered sugar
 - 1/4 tsp vanilla extract
